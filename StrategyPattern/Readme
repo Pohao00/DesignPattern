@@ -1,3 +1,0 @@
-1. Do not make the code that will be modify in the future mix with other code fixed.
-2. Write for interface, not for implement.
-3. Use synthesis more than inherit. 
