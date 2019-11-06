@@ -23,3 +23,13 @@ Design Pattern Principle
 Design Pattern Principle
 
 1. Class must be free for expansion, and can not be revised in closed .
+
+## Factory Pattern
+Design Pattern Principle
+
+1. Depend on abstract class, rather than concrete class.(Dependency Inversion Principle)
+
+## Singleton Pattern
+Design Pattern Principle
+
+1. Ensure only one concrete object across the system.
