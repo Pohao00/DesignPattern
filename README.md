@@ -18,3 +18,8 @@ Design Pattern Principle
 Design Pattern Principle
 
 1. Let the objects that interact with each other in high frequency relax the each relevance.
+
+## Decorator Pattern
+Design Pattern Principle
+
+1. Class must be free for expansion, and can not be revised in closed .
