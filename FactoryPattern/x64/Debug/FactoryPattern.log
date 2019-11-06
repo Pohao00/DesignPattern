@@ -1,0 +1,4 @@
+﻿  FactoryPattern.cpp
+C:\Users\PohaoSu\Desktop\my_test\FactoryPattern\PizzaStore.h(48): warning C4715: 'ChicagoPizzaStore::CreatePizza': 不是所有控制路徑都傳回值
+C:\Users\PohaoSu\Desktop\my_test\FactoryPattern\PizzaStore.h(28): warning C4715: 'NYPizzaStore::CreatePizza': 不是所有控制路徑都傳回值
+  FactoryPattern.vcxproj -> C:\Users\PohaoSu\Desktop\my_test\x64\Debug\FactoryPattern.exe
