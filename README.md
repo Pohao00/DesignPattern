@@ -33,3 +33,8 @@ Design Pattern Principle
 Design Pattern Principle
 
 1. Ensure only one concrete object across the system.
+
+## Command Pattern
+Design Pattern Principle
+
+1. Encapsulate a request to a object(method invoke).
